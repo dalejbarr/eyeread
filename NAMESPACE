@@ -1,0 +1,3 @@
+useDynLib(eyeread)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)

@@ -1,1 +1,1 @@
-PKG_LIBS=-L. libedfapi.a -lm -lz
+PKG_LIBS=-L. -LEyelink libedfapi.a -lm -lz

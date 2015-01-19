@@ -1,1 +1,1 @@
-PKG_LIBS=-L. -LEyelink libedfapi.a -lm -lz
+PKG_LIBS=-L. Eyelink/libedfapi.a -lm -lz

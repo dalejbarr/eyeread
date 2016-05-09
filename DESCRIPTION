@@ -3,9 +3,9 @@ Type: Package
 Title: Read in eyetracking data from binary files
 Version: 1.0
 Date: 2014-06-20
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Dale Barr <dalejbarr3@gmail.com>
+Maintainer: Dale Barr <dalejbarr3@gmail.com>
+Description: Read data from binary eyetracking files into R (currently only works for Eyelink EDF files on 64-bit Linux)
 License: What Licence is it under ?
 Imports: Rcpp (>= 0.11.1)
 LinkingTo: Rcpp

@@ -405,7 +405,7 @@ int EyedatEyelink::FindTrialDelimiters(const char *tbegin, const char *tend) {
 			if (str.substr(0, std::strlen(strBegin.c_str()))==strBegin) {
 				edf_set_bookmark(m_pEDFFile, &bm);
         if (bInTrial) {
-           cout << "Error!" << endl;
+           cout << "Error! here" << endl;
         } else {
           bInTrial = true;
         }
